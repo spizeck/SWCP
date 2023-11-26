@@ -1,1 +1,23 @@
-site_name: My Docs
+site_name: Southwest Concrete Paving Knowledge Base
+
+theme: material
+
+nav: 
+  - Home: index.md
+  - Employee Handbook: 
+    - Policies and Procedures: Employee-Handbook/Policies-and-Procedures/coming-soon.md
+    - Onboarding Process: Employee-Handbook/Onboarding-Process/coming-soon.md
+    - Employee Resources: Employee-Handbook/Employee-Resources/coming-soon.md
+  - Office Administration: Office-Administration/coming-soon.md
+  - Project Management: 
+    - Running Cost Code Reports in Heavy Job: Project-Management/running-cost-codes-in-hj.md
+    - Running a Cost Report for a Specific Phase/Cost Code in eCMS: Project-Management/running-cost-report-cost-code-ecms.md
+  - Quality Control: Quality-Control/coming-soon.md
+  - Field Operations: Field-Operations/coming-soon.md
+  - Equipment: Equipment/coming-soon.md
+  - Technology: Technology/coming-soon.md
+  - Safety: Safety/coming-soon.md
+
+plugins:
+  - search
+  - mermaid2
