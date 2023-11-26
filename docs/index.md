@@ -15,6 +15,14 @@ Our Knowledge Base is structured into several key categories, each containing sp
 - **Technology**: Guides on using various software tools and staying updated with the latest technology in our field.
 - **Safety**: Critical information on safety protocols, training requirements, and accident reporting.
   
+## Contributing to the Knowledge Base
+
+The SWCP Knowledge Base is a collaborative effort, and your contributions are highly valued. If you have any updates, corrections, or new content to add, you can contribute directly via our GitHub repository:
+
+[SWCP Knowledge Base Repository](https://github.com/spizeck/SWCP)
+
+For guidance on how to contribute, please refer to the README file in the repository.
+
 ## How to Use This Knowledge Base
 
 - **Navigation**: Use the menu to navigate through different categories and find the information you need.
