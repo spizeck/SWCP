@@ -14,7 +14,7 @@ Thank you for your interest in contributing to the Southwest Concrete Paving Kno
 
 1. **Navigate to the Repository**: Go to the [Southwest Concrete Paving Knowledge Base repository](https://github.com/spizeck/SWCP).
 
-2. **Find the File You Want to Edit**: The content is organized in Markdown files. Navigate to the specific file you want to update.
+2. **Find the File You Want to Edit**: The content is organized in Markdown files. Navigate to the specific file you want to update. The markdown files are located in the `docs` folder.
 
 3. **Edit the File**:
    - Click the pencil icon (Edit this file) on the top right of the file view.
