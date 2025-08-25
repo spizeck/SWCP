@@ -1,6 +1,20 @@
 site_name: Southwest Concrete Paving Knowledge Base
+site_url: https://swcp-knowledge-database.web.app/
+repo_url: https://github.com/spizeck/SWCP
+edit_uri: edit/main/docs/       
 
-theme: material
+theme: 
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - toc.integrate
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
 
 nav: 
   - Home: index.md
@@ -24,3 +38,26 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
